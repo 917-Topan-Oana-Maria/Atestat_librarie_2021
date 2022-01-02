@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ATESTAT-LIBRARIE", "ATESTAT-LIBRARIE\ATESTAT-LIBRARIE.csproj", "{217F4445-E9BB-421B-B00A-8912F4BFD8EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{217F4445-E9BB-421B-B00A-8912F4BFD8EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{217F4445-E9BB-421B-B00A-8912F4BFD8EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{217F4445-E9BB-421B-B00A-8912F4BFD8EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{217F4445-E9BB-421B-B00A-8912F4BFD8EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E7BFD1C-CF8D-4491-ADB7-DAF52F70BA3E}
+	EndGlobalSection
+EndGlobal
